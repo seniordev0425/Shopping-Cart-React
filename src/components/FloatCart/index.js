@@ -22,7 +22,8 @@ class FloatCart extends Component {
   };
 
   state = {
-    isOpen: false
+    isOpen: false,
+	ioLoading: false
   };
 
 
